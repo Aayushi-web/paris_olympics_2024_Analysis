@@ -1,7 +1,7 @@
 # Paris Olympics 2024 Analysis
 
 This project provides an in-depth data analysis of the Paris Olympics 2024, focusing on various aspects such as event details, country performances, medal counts, athlete statistics, and predictions for the upcoming games.
-
+[Download PDF](C:\Users\Aayushi mishra\Downloads\Paris_olympics_2024_Analysis.pdf)
 ## Features
 
 - **Event Data**: A comprehensive collection of all events scheduled for the Paris Olympics 2024, including categories, schedules, and participating countries.
